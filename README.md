@@ -1,6 +1,5 @@
 # RecyclerViewAsVerticalListView
 
-I have used here recycleview and cardview to show list items containing image from server and text.
+Here,Recycleview and Cardview is used to show list-items containing image and text using gridLayout.
 
-
-I used picasso library to load images.
+Picasso library is used to load images from URL.
